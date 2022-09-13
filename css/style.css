@@ -96,3 +96,21 @@ h1{
     font-size: 15px;
     margin: 5px;
 }
+.website{
+    background-color: rgb(232, 16, 150);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;   
+}
+.sales{
+    background-color: rgb(153, 231, 26);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
