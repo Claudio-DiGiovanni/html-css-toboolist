@@ -65,5 +65,34 @@ h1{
     color: white;
     border-radius: 20px;
     padding: 5px;
-    font-size: 20px !important;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.q1-goals{
+    background-color: rgb(149, 11, 183);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.recruiting{
+    background-color: rgb(20, 195, 61);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+.mobile{
+    background-color: rgb(224, 164, 23);
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
 }
